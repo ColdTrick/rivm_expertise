@@ -1,0 +1,10 @@
+= Version history =
+
+x.x:
+
+- fixed: problem with saving CTGB_stof fields which caused search problems
+- changed: output of CTGB_product_type and CTGB_stof fields to be more like tags
+
+1.0:
+
+- first release
