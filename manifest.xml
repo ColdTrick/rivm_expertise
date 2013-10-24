@@ -5,7 +5,9 @@
 	<version>1.0</version>
 	<description>Find users based on their expertise.</description>
 	<website>http://www.coldtrick.com/</website>
-	<copyright>(C) ColdTrick 2012</copyright>
+	<repository>https://github.com/ColdTrick/rivm_expertise</repository>
+	<bugtracker>https://github.com/ColdTrick/rivm_expertise/issues</bugtracker>
+	<copyright>(C) ColdTrick IT Solutions 2012</copyright>
 	<license>GNU General Public License version 2</license>
 	
 	<requires>
